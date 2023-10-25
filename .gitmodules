@@ -1,0 +1,27 @@
+[submodule "CP1"]
+	path = CP1
+	url = https://github.com/bradly0cjw/CP1.git
+[submodule "CP2"]
+	path = CP2
+	url = https://github.com/bradly0cjw/CP2.git
+[submodule "CPE-Train"]
+	path = CPE-Train
+	url = https://github.com/bradly0cjw/CPE-Train.git
+[submodule "CSIE-WEB-EXAM"]
+	path = CSIE-WEB-EXAM
+	url = https://github.com/bradly0cjw/CSIE-WEB-EXAM.git
+[submodule "DS"]
+	path = DS
+	url = https://github.com/bradly0cjw/DS.git
+[submodule "FC"]
+	path = FC
+	url = https://github.com/bradly0cjw/FC.git
+[submodule "ICPC"]
+	path = ICPC
+	url = https://github.com/bradly0cjw/ICPC.git
+[submodule "LD"]
+	path = LD
+	url = https://github.com/bradly0cjw/LD.git
+[submodule "nttu-web-design"]
+	path = nttu-web-design
+	url = https://github.com/bradly0cjw/nttu-web-design.git
