@@ -24,4 +24,7 @@
 	url = https://github.com/bradly0cjw/LD.git
 [submodule "nttu-web-design"]
 	path = nttu-web-design
-	url = https://github.com/bradly0cjw/nttu-web-design.git
+	url = https://github.com/fk8663212/nttu-web-design.git
+[submodule "web"]
+	path = web
+	url = https://github.com/bradly0cjw/web.git
